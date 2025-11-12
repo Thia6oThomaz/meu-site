@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-size: 40pt;
+    color: gray;
+    text-align: center;
+}
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    display: flex;
+}
+nav li a {
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:larger;
+    color: black;
+    color:;
+    padding: 20px 30px;
+    text-decoration:none;
+}
+nav li a:hover {
+    background-color: chartreuse;
+}
