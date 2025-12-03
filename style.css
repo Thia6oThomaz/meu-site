@@ -33,5 +33,17 @@ nav li a {
     text-decoration:none;
 }
 nav li a:hover {
-    background-color: chartreuse;
+    background-color: slategrey;
 } 
+
+ img {
+    width: 750px
+}
+div {
+    text-align: center;
+    padding: 50px;
+}
+
+footer {
+    padding: 50px;
+}
