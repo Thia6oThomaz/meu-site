@@ -14,6 +14,15 @@ p {
     width: 60%;
     margin:auto;
 }
+#intro {
+    color: white;
+    text-align: justify;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    width: 90%;
+    margin: auto;
+    padding: 50px;
+}
 nav {
     list-style-type: none;
     margin: 0;
